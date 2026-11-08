@@ -1108,7 +1108,9 @@
 ["Z88","Personal history of allergy to drugs, medicaments and biological substances"],
 ["R80","Isolated proteinuria"],
 ["R89","Abnormal findings in specimens from other organs, systems and tissues"],
-["T59","Toxic effect of other gases, fumes and vapours"]
+["T59","Toxic effect of other gases, fumes and vapours"],
+["B30","Viral conjunctivitis"],
+["Z87","Personal history of other diseases and conditions"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
