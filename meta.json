@@ -3,80 +3,80 @@
   "2570": {
    "regions": {
     "1": {
-     "run": "2026-11-10T14:31:59+07:00",
+     "run": "2026-11-11T02:53:23+07:00",
      "hospitals_ok": 39,
      "hospitals_total": 103,
      "failed": 64
     },
     "2": {
-     "run": "2026-11-10T14:32:18+07:00",
+     "run": "2026-11-11T02:53:45+07:00",
      "hospitals_ok": 9,
      "hospitals_total": 47,
      "failed": 38
     },
     "3": {
-     "run": "2026-11-10T14:32:38+07:00",
-     "hospitals_ok": 20,
+     "run": "2026-11-11T02:54:10+07:00",
+     "hospitals_ok": 22,
      "hospitals_total": 54,
-     "failed": 34
+     "failed": 32
     },
     "4": {
-     "run": "2026-11-10T14:33:04+07:00",
+     "run": "2026-11-11T02:54:40+07:00",
      "hospitals_ok": 17,
      "hospitals_total": 72,
      "failed": 55
     },
     "5": {
-     "run": "2026-11-10T14:33:29+07:00",
+     "run": "2026-11-11T02:55:08+07:00",
      "hospitals_ok": 16,
      "hospitals_total": 67,
      "failed": 51
     },
     "6": {
-     "run": "2026-11-10T14:33:54+07:00",
-     "hospitals_ok": 16,
+     "run": "2026-11-11T02:55:38+07:00",
+     "hospitals_ok": 17,
      "hospitals_total": 73,
-     "failed": 57
+     "failed": 56
     },
     "7": {
-     "run": "2026-11-10T14:34:22+07:00",
-     "hospitals_ok": 31,
+     "run": "2026-11-11T02:56:13+07:00",
+     "hospitals_ok": 37,
      "hospitals_total": 77,
-     "failed": 46
+     "failed": 40
     },
     "8": {
-     "run": "2026-11-10T14:34:55+07:00",
-     "hospitals_ok": 62,
+     "run": "2026-11-11T02:56:52+07:00",
+     "hospitals_ok": 69,
      "hospitals_total": 88,
-     "failed": 26
+     "failed": 19
     },
     "9": {
-     "run": "2026-11-10T14:35:25+07:00",
-     "hospitals_ok": 13,
+     "run": "2026-11-11T02:57:27+07:00",
+     "hospitals_ok": 16,
      "hospitals_total": 90,
-     "failed": 77
+     "failed": 74
     },
     "10": {
-     "run": "2026-11-10T14:35:52+07:00",
-     "hospitals_ok": 40,
+     "run": "2026-11-11T02:58:00+07:00",
+     "hospitals_ok": 43,
      "hospitals_total": 71,
-     "failed": 31
+     "failed": 28
     },
     "11": {
-     "run": "2026-11-10T14:36:21+07:00",
-     "hospitals_ok": 23,
+     "run": "2026-11-11T02:58:34+07:00",
+     "hospitals_ok": 24,
      "hospitals_total": 82,
-     "failed": 59
+     "failed": 58
     },
     "12": {
-     "run": "2026-11-10T14:36:51+07:00",
-     "hospitals_ok": 26,
+     "run": "2026-11-11T02:59:07+07:00",
+     "hospitals_ok": 31,
      "hospitals_total": 78,
-     "failed": 52
+     "failed": 47
     }
    },
-   "run": "2026-11-10T14:36:51+07:00",
-   "hospitals_ok": 312,
+   "run": "2026-11-11T02:59:07+07:00",
+   "hospitals_ok": 340,
    "hospitals_total": 902
   },
   "2569": {
@@ -159,5 +159,5 @@
    "hospitals_total": 902
   }
  },
- "checked": "2026-11-10T14:36:51+07:00"
+ "checked": "2026-11-11T02:59:08+07:00"
 }
