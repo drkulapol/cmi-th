@@ -1248,7 +1248,18 @@
 ["H71","Cholesteatoma of middle ear"],
 ["B77","Ascariasis"],
 ["P53","Haemorrhagic disease of fetus and newborn"],
-["T73","Effects of other deprivation"]
+["T73","Effects of other deprivation"],
+["A93","Other arthropod-borne viral fevers, not elsewhere classified"],
+["Q76","Congenital malformations of spine and bony thorax"],
+["A35","Other tetanus"],
+["G52","Disorders of other cranial nerves"],
+["M22","Disorders of patella"],
+["Q39","Congenital malformations of oesophagus"],
+["S03","Dislocation, sprain and strain of joints and ligaments of head"],
+["A57","Chancroid"],
+["D28","Benign neoplasm of other and unspecified female genital organs"],
+["S24","Injury of nerves and spinal cord at thorax level"],
+["T86","Failure and rejection of transplanted organs and tissues"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2647,5 +2658,15 @@
 ["08552","Connective tissue disorders w mod CCC"],
 ["11123","ESWL for urinary stone w maj CCC"],
 ["03612","ENT & mouth malignancy with diagnostic proc w mod CCC"],
-["18513","Septicemia, child w maj CCC"]
+["18513","Septicemia, child w maj CCC"],
+["01041","Ventricular shunt revision w min CCC"],
+["02072","Other lens procedures w mod CCC"],
+["07151","Liver resection w min CCC"],
+["08133","Shoulder, elbow & forearm proc exc replacement w maj CCC"],
+["17020","Other neoplastic disorders w major OR procedures wo sig CCC"],
+["17512","Lymphoma & non-acute leukemia w mod CCC"],
+["22050","Extensive burn w debridement wo sig CCC"],
+["24120","Spinal procedure for MST wo sig CCC"],
+["26022","OR proc group 2 unrelated to PDx w mod CCC"],
+["22511","Full thickness burns wo skin graft/inh inj w min CCC"]
 ]}
