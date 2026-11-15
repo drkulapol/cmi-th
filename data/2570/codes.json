@@ -1285,7 +1285,8 @@
 ["A56","Other sexually transmitted chlamydial diseases"],
 ["Q71","Reduction defects of upper limb"],
 ["Z89","Acquired absence of limb"],
-["W01","Fall on same level from slipping, tripping and stumbling"]
+["W01","Fall on same level from slipping, tripping and stumbling"],
+["U50","ความผิดปกติของสตรีตั้งครรภ์และหลังคลอด"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2713,5 +2714,7 @@
 ["17592","Acute leukemia with diag proc w mod CCC"],
 ["21553","Poisoning & toxic effects of drugs age 0-17 w maj CCC"],
 ["12541","Other male reproductive system diagnoses w min CCC"],
-["10091","Thyroglossal procedures w min CCC"]
+["10091","Thyroglossal procedures w min CCC"],
+["02109","Enucleation and orbital proc for eye malignancy"],
+["09092","Other skin, subcut tissue and breast proc w mod CCC"]
 ]}
