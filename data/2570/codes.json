@@ -1286,7 +1286,20 @@
 ["Q71","Reduction defects of upper limb"],
 ["Z89","Acquired absence of limb"],
 ["W01","Fall on same level from slipping, tripping and stumbling"],
-["U50","ความผิดปกติของสตรีตั้งครรภ์และหลังคลอด"]
+["U50","ความผิดปกติของสตรีตั้งครรภ์และหลังคลอด"],
+["E84","Cystic fibrosis"],
+["I28","Other diseases of pulmonary vessels"],
+["A32","Listeriosis"],
+["S38","Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis"],
+["R64","Cachexia"],
+["S44","Injury of nerves at shoulder and upper arm level"],
+["D29","Benign neoplasm of male genital organs"],
+["M93","Other osteochondropathies"],
+["F80","Specific developmental disorders of speech and language"],
+["F93","Emotional disorders with onset specific to childhood"],
+["Q07","Other congenital malformations of nervous system"],
+["Q52","Other congenital malformations of female genitalia"],
+["S16","Injury of muscle and tendon at neck level"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2716,5 +2729,16 @@
 ["12541","Other male reproductive system diagnoses w min CCC"],
 ["10091","Thyroglossal procedures w min CCC"],
 ["02109","Enucleation and orbital proc for eye malignancy"],
-["09092","Other skin, subcut tissue and breast proc w mod CCC"]
+["09092","Other skin, subcut tissue and breast proc w mod CCC"],
+["04531","Sleep apnea w min CCC"],
+["06632","Intestinal helminth and misc digestive dis age < 10 w mod CCC"],
+["13573","Non ovarian/adnexal malig w chemotherapy w maj CCC"],
+["14053","Uncomplicated abortion w D&C and asp currettage w maj CCC"],
+["13502","Non-ovarian/adnexal malignancy w mod CCC"],
+["19503","Acute psychotic disorders w maj CCC"],
+["05191","Vein ligation and stripping w min CCC"],
+["06663","Miscellneous digestive disorders age > 9 w maj CCC"],
+["11062","Minor bladder procedure w mod CCC"],
+["15011","Newb died or transf < 5 d of adm w mj or sign proc w min CCC"],
+["15032","Newb adm wt < 1000 gm w sign proc w mod CCC"]
 ]}
