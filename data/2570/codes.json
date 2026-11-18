@@ -1326,7 +1326,17 @@
 ["E25","Adrenogenital disorders"],
 ["I37","Pulmonary valve disorders"],
 ["P71","Transitory neonatal disorders of calcium and magnesium metabolism"],
-["Z45","Adjustment and management of implanted device"]
+["Z45","Adjustment and management of implanted device"],
+["J67","Hypersensitivity pneumonitis due to organic dust"],
+["P57","Kernicterus"],
+["P90","Convulsions of newborn"],
+["Q26","Congenital malformations of great veins"],
+["Q55","Other congenital malformations of male genital organs"],
+["R15","Faecal incontinence"],
+["A98","Other viral haemorrhagic fevers, not elsewhere classified"],
+["T56","Toxic effect of metals"],
+["A59","Trichomoniasis"],
+["L21","Seborrhoeic dermatitis"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2795,5 +2805,9 @@
 ["10591","Endocrine malignancy w chemotherapy w min CCC"],
 ["13569","Non ovarian/adnexal malig w chemo- and radiotherapy"],
 ["17021","Other neoplastic disorders w major OR procedures w min CCC"],
-["18639","Fungal diseases, child"]
+["18639","Fungal diseases, child"],
+["04672","Respiratory neoplasms with radiotherapy w mod CCC"],
+["05330","Multiple cardiac valve procedures wo sig CCC"],
+["05579","Skin ulcers for circulatory disorders"],
+["23521","Aftercare w min CCC"]
 ]}
