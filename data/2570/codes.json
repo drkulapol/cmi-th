@@ -1336,7 +1336,27 @@
 ["A98","Other viral haemorrhagic fevers, not elsewhere classified"],
 ["T56","Toxic effect of metals"],
 ["A59","Trichomoniasis"],
-["L21","Seborrhoeic dermatitis"]
+["L21","Seborrhoeic dermatitis"],
+["H57","Other disorders of eye and adnexa"],
+["H30","Chorioretinal inflammation"],
+["A03","Shigellosis"],
+["L28","Lichen simplex chronicus and prurigo"],
+["L57","Skin changes due to chronic exposure to nonionizing radiation"],
+["E54","Ascorbic acid deficiency"],
+["A28","Other zoonotic bacterial diseases, not elsewhere classified"],
+["D74","Methaemoglobinaemia"],
+["F42","Obsessive-compulsive disorder"],
+["L56","Other acute skin changes due to ultraviolet radiation"],
+["A22","Anthrax"],
+["B36","Other superficial mycoses"],
+["Z80","Family history of malignant neoplasm"],
+["D00","Carcinoma in situ of oral cavity, oesophagus and stomach"],
+["Z02","Examination and encounter for administrative purposes"],
+["P94","Disorders of muscle tone of newborn"],
+["B65","Schistosomiasis [bilharziasis]"],
+["F50","Eating disorders"],
+["Q51","Congenital malformations of uterus and cervix"],
+["R68","Other general symptoms and signs"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2809,5 +2829,13 @@
 ["04672","Respiratory neoplasms with radiotherapy w mod CCC"],
 ["05330","Multiple cardiac valve procedures wo sig CCC"],
 ["05579","Skin ulcers for circulatory disorders"],
-["23521","Aftercare w min CCC"]
+["23521","Aftercare w min CCC"],
+["10021","Adrenal procedures w min CCC"],
+["06159","Pyloromyotomy procedure"],
+["19569","Eating and obscessive compulsive disorders"],
+["02013","Retinal procedures w maj CCC"],
+["06584","Gastroenteritis age < 10 w ext CCC"],
+["19592","Organic disturbance w mod CCC"],
+["08721","Pathol fracture and malignancy w blood transfusion w min CCC"],
+["05131","Simple cardiothoracic proc w min CCC"]
 ]}
