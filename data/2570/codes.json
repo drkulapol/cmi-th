@@ -1356,7 +1356,9 @@
 ["B65","Schistosomiasis [bilharziasis]"],
 ["F50","Eating disorders"],
 ["Q51","Congenital malformations of uterus and cervix"],
-["R68","Other general symptoms and signs"]
+["R68","Other general symptoms and signs"],
+["D19","Benign neoplasm of mesothelial tissue"],
+["A30","Leprosy [Hansen's disease]"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
