@@ -1358,7 +1358,8 @@
 ["Q51","Congenital malformations of uterus and cervix"],
 ["R68","Other general symptoms and signs"],
 ["D19","Benign neoplasm of mesothelial tissue"],
-["A30","Leprosy [Hansen's disease]"]
+["A30","Leprosy [Hansen's disease]"],
+["A82","Rabies"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2839,5 +2840,7 @@
 ["06584","Gastroenteritis age < 10 w ext CCC"],
 ["19592","Organic disturbance w mod CCC"],
 ["08721","Pathol fracture and malignancy w blood transfusion w min CCC"],
-["05131","Simple cardiothoracic proc w min CCC"]
+["05131","Simple cardiothoracic proc w min CCC"],
+["16522","Reticuloendothelial and immuno disorders w mod CCC"],
+["19011","Acute psychotic disorders with ECT w min CCC"]
 ]}
