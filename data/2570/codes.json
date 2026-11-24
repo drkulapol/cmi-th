@@ -1359,7 +1359,20 @@
 ["R68","Other general symptoms and signs"],
 ["D19","Benign neoplasm of mesothelial tissue"],
 ["A30","Leprosy [Hansen's disease]"],
-["A82","Rabies"]
+["A82","Rabies"],
+["D81","Combined immunodeficiencies"],
+["L59","Other disorders of skin and subcutaneous tissue related to radiation"],
+["J37","Chronic laryngitis and laryngotracheitis"],
+["R76","Other abnormal immunological findings in serum"],
+["A77","Spotted fever [tick-borne rickettsioses]"],
+["G64","Other disorders of peripheral nervous system"],
+["Q77","Osteochondrodysplasia with defects of growth of tubular bones and spine"],
+["A26","Erysipeloid"],
+["Q60","Renal agenesis and other reduction defects of kidney"],
+["T06","Other injuries involving multiple body regions, not elsewhere classified"],
+["T68","Hypothermia"],
+["Q06","Other congenital malformations of spinal cord"],
+["S48","Traumatic amputation of shoulder and upper arm"]
 ],
 "DRGC":[
 ["01550","Specific cerebrovascular disorders exc TIA wo sig CCC"],
@@ -2842,5 +2855,16 @@
 ["08721","Pathol fracture and malignancy w blood transfusion w min CCC"],
 ["05131","Simple cardiothoracic proc w min CCC"],
 ["16522","Reticuloendothelial and immuno disorders w mod CCC"],
-["19011","Acute psychotic disorders with ECT w min CCC"]
+["19011","Acute psychotic disorders with ECT w min CCC"],
+["09151","Skin graft and/or multiple debridment w min CCC"],
+["13511","Non-ovarian/adnexal ca in situ w min CCC"],
+["05121","Automat cardioverter proc w min CCC"],
+["01050","Extracranial vascular procedures wo sig CCC"],
+["01090","Intracranial vascular procedures wo sig CCC"],
+["12579","Malignancy, male reprod organ w radiotherapy"],
+["17631","Lymphoma & non-acute leukemia w radiotherapy w min CCC"],
+["01051","Extracranial vascular procedures w min CCC"],
+["19622","Mental retardation w mod CCC"],
+["11159","Plasmapheresis for kidney and urinary tract dis"],
+["13623","Ovarian/adnexal malig w chemotherapy w maj CCC"]
 ]}
